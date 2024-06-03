@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "74f3259d8b3c0642",
+    "type": "split",
+    "children": [
+      {
+        "id": "301cc20557c6440a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Omega2(+) Notes.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a539c29d57433de9",
+    "type": "split",
+    "children": [
+      {
+        "id": "42249bb6810c4d60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f7446f3f84caacc4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b288f4354aac7012",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "08690ca8bb7dd62d",
+    "type": "split",
+    "children": [
+      {
+        "id": "6cf1db50603a5fdb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca58e567c0844cbc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Omega2(+) Notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "301cc20557c6440a",
+  "lastOpenFiles": [
+    "Omega2(+) Notes.md",
+    "Original Omega Notes.md",
+    "Original Omega Notes 1.md",
+    "Untitled.md"
+  ]
+}
